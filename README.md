@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<p align="left">🚀 2022 was the year I started to create my first bugs and decided to go down the path of coding with enjoyment (and also frustration).</p>
+<p align="left">🚀 2022 was the year I started to create my first bugs and decided to go down the path of coding with joy (and also frustration).</p>
 <p align="left">📚 Currently studying Business Informatics at the Johannes Kepler Univeristy.</p>
 
 <h2 align="left">Core Tech Stack</h2>
