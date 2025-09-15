@@ -9,20 +9,15 @@
 <h2 align="left">About me</h2>
 <p align="left">🚀 2022 was the year I started to create my first bugs and decided to go down the path of coding with joy (and also frustration).</p>
 <p align="left">📚 Currently studying Business Informatics at the Johannes Kepler Univeristy.</p>
+<p align="left">💻 Working as a Software Developer with passion.</p>
 
 <h2 align="left">Core Tech Stack</h2>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://laravel.com/img/logomark.min.svg" width="40" alt="Laravel Logo" />
-  <img width="12" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,laravel,python" height="48" alt="Tech stack: JS, Node.js, Java, Laravel, Python" />
+</p>
 
 ###
 
