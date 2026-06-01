@@ -16,7 +16,7 @@
 ###
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,java,spring_boot,laravel,python" height="48" alt="Tech stack: JS, Node.js, Java,SpringBoot, Laravel, Python, PHP" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,spring,laravel,python" height="48" alt="Tech stack: JS, Node.js, Java,Spring, Laravel, Python, PHP" />
 </p>
 
 ###
